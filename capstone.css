@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+  color: white;margin: 0px;
+  background-color: rgb(21, 41, 76);
+  border-right: 100px solid rgb(33, 139, 145);
+  border-left: 100px solid rgb(33, 139, 145);
+  border-bottom: 200px solid rgb(33, 139, 145);
+}
+p{
+
+  text-align: center;
+  margin-left:350px;margin-right: 350px;
+  font-family: 'Merienda', cursive;
+  word-spacing: 5px;
+}
+#button1{
+  border-radius: 20px;
+  height: 50px;
+  text-align: center;
+  width: 150px;
+  background-color: orange;
+  font-size: 1.2em;
+}
+#fm,#lm,#eem{
+  width: 350px;
+  height: 30px;
+}
+label{
+  font-weight: bold;
+  font-family: 'Scheherazade', serif;
+}
+h1,h2,h4{
+  word-spacing: 5px;
+  font-stretch: semi-expanded;
+  font-weight: bolder;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
